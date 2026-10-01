@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "create",
+  "style": "cyberpunk",
+  "generated_at": "2026-09-22T05:17:08Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/cyberpunk/hero/hero-1.svg",
+      "category": "hero",
+      "style": "cyberpunk",
+      "title": "Create Hero",
+      "prompt": "Abstract hero for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/hero/hero-2.svg",
+      "category": "hero",
+      "style": "cyberpunk",
+      "title": "Create Hero",
+      "prompt": "Abstract hero for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/hero/hero-3.svg",
+      "category": "hero",
+      "style": "cyberpunk",
+      "title": "Create Hero",
+      "prompt": "Abstract hero for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/hero/hero-4.svg",
+      "category": "hero",
+      "style": "cyberpunk",
+      "title": "Create Hero",
+      "prompt": "Abstract hero for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-1.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 1",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-2.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 2",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-3.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 3",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-4.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 4",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-5.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 5",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-6.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 6",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-7.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 7",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-8.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 8",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-9.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 9",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-10.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 10",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-11.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 11",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/icons/icon-12.svg",
+      "category": "icons",
+      "style": "cyberpunk",
+      "title": "Create Icons Icon 12",
+      "prompt": "Abstract icons for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "cyberpunk",
+      "title": "Create Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "cyberpunk",
+      "title": "Create Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "cyberpunk",
+      "title": "Create Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "cyberpunk",
+      "title": "Create Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "cyberpunk",
+      "title": "Create Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "cyberpunk",
+      "title": "Create Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "cyberpunk",
+      "title": "Create Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "cyberpunk",
+      "title": "Create Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "cyberpunk",
+      "title": "Create Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "cyberpunk",
+      "title": "Create Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    },
+    {
+      "file": "assets/cyberpunk/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "cyberpunk",
+      "title": "Create Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Dark Cyberpunk / Neon styled website; palette #a1a1aa, #f472b6, #a3e635, #0a0a0f, #111118, #1a1a24, #f4f4f5, #71717a, rgba(34,211,238,0.25); deep dark backgrounds, neon accent glows, tech/mono type.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#a1a1aa",
+        "#f472b6",
+        "#a3e635",
+        "#0a0a0f",
+        "#111118",
+        "#1a1a24",
+        "#f4f4f5",
+        "#71717a",
+        "rgba(34,211,238,0.25)"
+      ],
+      "seed": 3307790676
+    }
+  ]
+}
